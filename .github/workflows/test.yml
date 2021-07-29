@@ -19,16 +19,13 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-
+      - uses: iterative/setup-cml@v1
       # Runs a single command using the runners shell
       - name: Setup ngrok
         run: sh set.sh
-
       # Runs a set of commands using the runners shell
       - name: Bundle nohup and ngrok url
         run: sh set2.sh
-      
-      - uses: iterative/setup-cml@v1
       - name: Create Comment
         env:
           REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
