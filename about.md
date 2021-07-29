@@ -38,3 +38,4 @@ Explore ML Workshops are in-person, live sessions where students learn theoretic
 
 ## Assignments
 
+Website is WIP
