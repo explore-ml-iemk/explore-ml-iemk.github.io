@@ -1,30 +1,14 @@
 ---
-title: Introduction to Machine Learning
+title: Linear and Logistic Regression
 ---
 
 Mar 01, 2020
-: **Section**{: .label .label-purple }[Linear, Logistic Regression](#)
-: [Notebook](#)
+: **Section 3.1.1**{: .label .label-purple }[Linear Regression]()
+: [Notebook](https://colab.research.google.com/github/explore-ml-iemk/Tutorials-Repo/blob/master/Linear%20Regression/Linear%20Regression.ipynb)
 : [Slides](#)
-: [3.1](#)
+: 
 
-Mar 07, 2020
-: **Section**{: .label .label-purple }[Decision Tree, Random Forest & Probability](#)
-: [Notebook](#)
+: **Section 3.1.2**{: .label .label-purple }[Logistic Regression]()
+: [Notebook](https://colab.research.google.com/github/explore-ml-iemk/Tutorials-Repo/blob/master/Logistic%20Regression/Sayantan_logistic_reg.ipynb)
 : [Slides](#)
-: [3.2](#)
-: **Section**{: .label .label-purple }[Support Vector Machines & Boosting](#)
-: [Notebook](#)
-: [Slides](#)
-: [3.3](#)
-
-Mar 08, 2020
-: **Section**{: .label .label-purple }[K nearest Neighbour & Distances](#)
-: [Notebook](#)
-: [Slides](#)
-: [3.4](#)
-
-: **Section**{: .label .label-purple }[XGBOOST, CATBOOST](#)
-: [Notebook](#)
-: [Slides](#)
-: [3.5](#)
+:
