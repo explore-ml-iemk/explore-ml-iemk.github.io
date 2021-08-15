@@ -1,9 +1,12 @@
 ---
-title: Introduction to Python
+title: Introduction to Python and Jupyter Notebooks
 ---
 
 Feb 20, 2020
-: **Section**{: .label .label-purple }[Anaconda Installation, Familiarizing Colab and some Python Basics ](#)
+: **Section 1.1**{: .label .label-purple }[Introduction to Anaconda, Google Colab]()
+: [Slides](#)
+: 
+
+: **Section 1.2**{: .label .label-purple }[Revesion of Python basics]()
 : [Notebook](#)
 : [Slides](#)
-: [1.1](#)
