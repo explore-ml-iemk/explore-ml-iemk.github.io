@@ -1,3 +1,3 @@
 ---
-title: Kaggle Submission & Transfer Learning
+title: Introduction to Deep Learning
 ---
