@@ -66,3 +66,6 @@ Gemfile.lock
 # .rubocop-https?--*
 
 # End of https://www.toptal.com/developers/gitignore/api/jekyll,ruby
+
+# vsCode configs
+.vscode/
