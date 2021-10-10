@@ -1,6 +1,6 @@
 # Explore-ML Website
 
-This is the website for the ExploreML 2020.
+This repository contains the code for the website of the ExploreML-IEM 2020.
 
 ## Setting up locally
 There is a docker-compose file to help you out with your local installation. Here are the instructions for local setup using docker:
